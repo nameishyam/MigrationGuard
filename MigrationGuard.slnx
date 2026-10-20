@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MigrationGuard.Cli/MigrationGuard.Cli.csproj" Id="6dec36ee-8c2d-41bc-aff0-d28e76eb87c9" />
+    <Project Path="src/MigrationGuard.Core/MigrationGuard.Core.csproj" Id="03d4716d-1ff0-4ef4-9631-6e7498baa19c" />
+  </Folder>
+</Solution>
